@@ -1,0 +1,9 @@
+#circle1
+5
+#rect1
+3
+5
+#triangle1
+5
+6
+8

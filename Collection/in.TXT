@@ -1,0 +1,16 @@
+#circle1
+5
+#circle2
+6
+#circle3
+2
+#rect1
+5
+6
+#rect2
+5
+6
+#triangle1
+6
+9
+9

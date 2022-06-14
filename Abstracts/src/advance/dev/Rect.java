@@ -1,0 +1,26 @@
+package advance.dev;
+
+public class Rect extends Shape {
+	private double a;
+	private double b;
+	
+	public Rect(double a, double b) {
+		super();
+		this.a = a;
+		this.b = b;
+	}
+
+	@Override
+	public double chuVi() {
+		// TODO Auto-generated method stub
+		return 2 * (a + b);
+	}
+
+	@Override
+	public double dienTic() {
+		// TODO Auto-generated method stub
+		return a * b;
+	}
+
+}
+
